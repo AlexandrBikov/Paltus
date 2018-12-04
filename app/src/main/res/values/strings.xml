@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paltus</string>
+    <string name="open_button">Открыть</string>
+    <string name="max_accel_string">Макс. ускорение м/с^2 :</string>
+    <string name="max_vel_string">Макс. скорость. м/с :</string>
+    <string name="min_accel_string">Мин. укорение м/с^2 :</string>
+</resources>
